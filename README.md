@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="ms">
 <head>
     <meta charset="UTF-8" />
@@ -193,7 +193,8 @@
     <!-- SLIDESHOW -->
     <section id="slideshow" class="section" style="display:none">
         <h2>📸 Gambar Cantik Shuraya</h2>
-        <img id="slide" src="gambar1.jpg" class="slideshow">
+        <img id="slide" src="<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/f215eba8-4895-42dc-ae15-356d02ac7d07" />
+" class="slideshow">
         <p style="opacity:0.6;">*Masukkan gambar di folder sama & tukar nama file*</p>
     </section>
 
