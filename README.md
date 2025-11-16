@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="ms">
 <head>
 <meta charset="UTF-8">
@@ -315,5 +315,14 @@ function showSlides(n){
 setInterval(()=>{ slideIndex++; showSlides(slideIndex); },3000);
 </script>
 
+<script>
+window.addEventListener("click", function () {
+    const bgm = document.getElementById("bgm");
+    if (bgm) {
+        bgm.muted = false;
+        bgm.play().catch(() => {});
+    }
+});
+</script>
 </body>
 </html>
