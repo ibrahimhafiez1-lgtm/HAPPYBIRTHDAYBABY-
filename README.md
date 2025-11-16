@@ -204,7 +204,7 @@
         <video width="300" controls>
             <source src="video_shuraya.mp4">
         </video>
-        <p style="opacity:0.6;">*Letak video file dalam folder sama*</p>
+        <p style="opacity:0.6;">*video_2025-11-16_22-36-23.mp4*</p>
     </section>
 
     <!-- SURAT -->
