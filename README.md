@@ -138,7 +138,7 @@
 
 <!-- BACKGROUND MUSIC AUTOPLAY -->
 <audio id="bgm" autoplay loop>
-    <source src="https://github.com/ibrahimhafiez1-lgtm/HAPPYBIRTHDAYBABY-/blob/main/happy_birthday_cute.mp33" type="audio/mpeg">
+    <source src="happy_birthday_cute.mp3" type="audio/mpeg">
 </audio>
 
 <!-- LOCK SCREEN -->
@@ -156,7 +156,7 @@
         <input id="pwdInput" type="password" placeholder="Password" style="padding:10px;width:90%;margin-top:10px;border-radius:10px;border:2px solid #ffb3d9;">
         <br><br>
         <button class="btn" id="pwdCheck">Buka</button>
-        <p>Password default: <b>sayangsangat</b></p>
+        <p>Password default: <b>HB BABY</b></p>
     </div>
 </div>
 
@@ -182,7 +182,7 @@
 
     <h3>🎶 Background Music</h3>
     <audio controls id="bgAudio">
-        <source src="https://github.com/ibrahimhafiez1-lgtm/HAPPYBIRTHDAYBABY-/blob/main/happy_birthday_cute.mp3">
+        <source src="happy_birthday_cute.mp3">
     </audio>
 </section>
 
@@ -257,7 +257,7 @@
 </section>
 
 <script>
-const DEFAULT_PASSWORD = 'sayangsangat';
+const DEFAULT_PASSWORD = 'HB BABY';
 const pwdModal = document.getElementById('pwdModal');
 const pwdInput = document.getElementById('pwdInput');
 const lockScreen = document.getElementById('lockScreen');
